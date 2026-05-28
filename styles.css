@@ -166,7 +166,7 @@ header.sticky .nav-bar {
     margin-left: 1175px;
     position: fixed;
     background: var(--second-color);
-    padding: 5px;
+    padding: 0px 5px;
     border-radius: 10px;
     align-items: center;
 }
