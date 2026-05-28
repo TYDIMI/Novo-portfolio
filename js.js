@@ -25,3 +25,9 @@ modalCloseBtns.forEach((modalCloseBtn) => {
          })
     })
 })
+
+function tocarSom() {
+    var som = document.getElementById("meuSom");
+    som.currentTime = 0;
+    som.play();
+}
